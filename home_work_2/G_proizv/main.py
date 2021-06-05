@@ -1,5 +1,5 @@
 s = input()
-numbers = s.split(' ')
+numbers = s.split()
 
 max1 = min(int(numbers[0]), int(numbers[1]))
 max2 = max(int(numbers[0]), int(numbers[1]))
